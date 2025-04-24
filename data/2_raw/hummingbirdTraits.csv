@@ -1,0 +1,182 @@
+;family;species;network;billLength;billCurvature;bodyWeight;n;males;females;noSex
+1;Coquettes;Ramphomicron microrhynchum;36, 78;7.2;3.81;3.6;10;5;5;0
+2;Coquettes;Lesbia nuna;29, 38;9;3.5;3.7;10;5;5;0
+3;Emeralds;Orthorhyncus cristatus;16, 17, 18, 19, 93;10.3;3.5;3.03;10;5;5;0
+4;Bees;Mellisuga minima;13;10.4;2.25;2.4;10;3;6;1
+5;Bees;Mellisuga helenae;3;10.5;3.8;2.2;10;5;5;0
+6;Coquettes;Lophornis magnificus;50, 52;10.5;1.59;2.7;10;5;5;0
+7;Emeralds;Abeillia abeillei;88, 89;10.6;3.59;2.7;10;7;3;0
+8;Bees;Atthis ellioti;88, 89;11.6;3.3;2.9;10;8;2;0
+9;Bees;Selasphorus scintilla;23;11.8;1.93;2.2;10;5;5;0
+10;Bees;Atthis heloisa;9, 10, 79, 80;12.2;1.87;2.2;10;5;5;0
+11;Coquettes;Metallura tyrianthina;29, 31, 32, 33, 36, 37, 38, 76;12.4;1.06;3.8;10;5;5;0
+12;Coquettes;Lophornis chalybeus;62, 65, 66, 68, 70, 91;12.5;2.07;3;10;5;5;0
+13;Mangoes;Schistes albogularis;81, 82;12.6;3.87;3.6;10;4;0;6
+14;Bees;Selasphorus flammula;23, 24, 25;12.7;1.98;2.8;10;5;5;0
+15;Bees;Tilmatura dupontii;88, 89;12.7;1.85;2.2;10;5;5;0
+16;Coquettes;Chalcostigma herrani;33;12.7;1.16;5.8;10;5;5;0
+17;Brilliants;Ocreatus underwoodii;27, 30, 32, 35, 75, 77, 81, 82, 83;13.1;2.01;3;10;5;5;0
+18;Coquettes;Metallura theresiae;78;13.1;0.86;4.9;10;4;5;1
+19;Coquettes;Metallura baroni;36;13.3;0.8;4.3;10;3;7;0
+20;Emeralds;Klais guimeti;21;13.3;1.73;2.6;10;5;5;0
+21;Emeralds;Chlorostilbon auriceps;8;13.5;1.65;2.2;10;5;5;0
+22;Emeralds;Stephanoxis lalandi;61, 62, 92;13.6;1.67;4;10;5;5;0
+23;Emeralds;Stephanoxis loddigesii;71, 74;13.6;1.67;4;10;5;5;0
+24;Emeralds;Chlorostilbon maugaeus;14, 15;13.9;3.42;3.1;10;5;5;0
+25;Mangoes;Heliactin bilophus;45, 50;13.9;2.92;4.4;10;5;5;0
+26;Bees;Calliphlox mitchellii;32, 35;14.1;1.9;3.1;10;9;1;0
+27;Coquettes;Aglaiocercus kingii;27, 30, 32, 83;14.4;1.66;4.85;10;5;5;0
+28;Coquettes;Heliangelus viola;36, 37, 38;14.4;1.73;5.4;10;5;5;0
+29;Mangoes;Chrysolampis mosquitus;20, 40, 41, 43, 44, 45, 47, 50;14.4;5.17;3.9;10;5;5;0
+30;Bees;Selasphorus calliope;2, 79, 80;14.6;1.95;2.5;10;5;5;0
+31;Coquettes;Heliangelus strophianus;82;14.6;2.74;5.5;10;5;5;0
+32;Bees;Calliphlox amethystina;40, 43, 45, 50, 51, 58, 63, 85, 92, 86;14.7;2.13;2.8;10;5;5;0
+33;Emeralds;Chlorostilbon melanorhynchus;28;14.8;1.93;2.6;10;5;5;0
+34;Coquettes;Adelomyia melanogenys;27, 30, 31, 32, 35, 77, 82, 83;14.9;2.55;4.6;10;5;5;0
+35;Emeralds;Eupherusa nigriventris;22;15;2.6;3.5;10;5;5;0
+36;Emeralds;Chlorostilbon mellisugus;39;15.2;1.93;2.6;10;5;5;0
+37;Emeralds;Chlorostilbon gibsoni;26;15.3;1.95;2.8;10;5;5;0
+38;Coquettes;Heliangelus micraster;76;15.4;2.28;NA;9;8;1;0
+39;Coquettes;Heliangelus exortis;31, 32, 83;15.7;1.73;4.6;10;5;5;0
+40;Coquettes;Lesbia victoriae;36, 78;16;6.23;5;10;5;5;0
+41;Emeralds;Chlorostilbon poortmani;27, 29;16.2;2.13;3.5;10;5;5;0
+42;Bees;Archilochus colubris;6, 7, 8, 12, 11, 79, 80, 87, 88;16.4;1.9;3.1;10;5;5;0
+43;Bees;Selasphorus rufus;1, 2, 7, 12, 79, 80;16.4;1.95;3.5;10;5;5;0
+44;Emeralds;Amazilia versicolor;34, 62, 63, 64, 66, 67, 68, 70, 71, 72, 73 , 86;16.4;3.43;4.1;10;5;5;0
+45;Brilliants;Eriocnemis mirabilis;31, 32;16.5;0.8;3.5;2;2;0;0
+46;Bees;Selasphorus sasin;12, 79, 80;16.6;2.46;3.37;10;5;5;0
+47;Mangoes;Colibri delphinae;35;16.6;2.73;6.4;10;5;5;0
+48;Emeralds;Cyanophaia bicolor;16;16.8;4.25;4.5;10;5;5;0
+49;Bees;Chaetocercus mulsant;27, 36, 83;16.9;2.97;3.9;10;5;5;0
+50;Mtn. Gems;Lamprolaima rhami;9, 89, 90;17;1.87;7.9;10;5;5;0
+51;Emeralds;Amazilia candida;9, 10, 87, 88;17.1;3.4;3.8;10;5;5;0
+52;Mangoes;Augastes scutatus;53, 85;17.1;2.14;3;10;5;5;0
+53;Brilliants;Boissonneaua flavescens;27, 30, 31, 32, 35, 82;17.2;2.88;8.2;10;5;5;0
+54;Emeralds;Chlorostilbon lucidus;40, 41, 43, 44, 45, 50, 51, 52, 53, 55, 56, 57, 58, 61, 68 , 70, 74, 85, 86;17.2;2.03;3.5;10;5;5;0
+55;Emeralds;Basilinna leucotis;4, 5, 7, 11, 12, 79, 80, 90;17.4;2.67;3.4;10;5;5;0
+56;Coquettes;Heliangelus amethysticollis;78, 77;17.5;1.45;5.05;10;5;5;0
+57;Coquettes;Heliangelus clarisse;29, 27;17.5;1.45;5.3;10;5;5;0
+58;Emeralds;Amazilia cyanifrons;26;17.5;2.75;5;10;10;0;0
+59;Emeralds;Chlorestes notata;20, 39, 47;17.6;2.92;4.2;10;5;5;0
+60;Coquettes;Phlogophilus hemileucurus;75;17.7;0.58;2.8;10;5;2;3
+61;Coquettes;Aglaiocercus coelestis;32, 35, 81, 82;17.8;1.5;5.65;10;5;5;0
+62;Emeralds;Hylocharis eliciae;87;17.8;2.47;3.6;10;5;5;0
+63;Brilliants;Boissonneaua matthewsii;76;17.9;2.56;7.7;10;5;5;0
+64;Mangoes;Heliothryx auritus;47;17.9;2.99;5.4;10;5;5;0
+65;Emeralds;Chlorostilbon ricordii;3;18.1;3.66;3.2;10;5;5;0
+66;Emeralds;Amazilia tobaci;20;18.4;2.82;4.7;10;5;5;0
+67;Emeralds;Thalurania glaucopis;47, 58, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 86, 91;18.4;3.21;4.8;10;5;5;0
+68;Bees;Selasphorus platycercus;1, 7, 12 , 79, 80;18.5;2.26;3.55;10;5;5;0
+69;Emeralds;Amazilia lactea;41, 43, 44 , 55, 58, 86;18.5;3.18;4.6;10;7;3;0
+70;Emeralds;Amazilia fimbriata;39, 41, 50, 51, 52, 56, 57, 58, 59, 63, 64, 65, 66, 70, 73, 86, 91, 92;18.6;3.98;4.9;10;5;5;0
+71;Emeralds;Amazilia brevirostris;65, 2;18.7;2.59;4.3;5;3;2;0
+72;Mangoes;Augastes lumachella;43;18.7;2.05;4;10;5;5;0
+73;Emeralds;Hylocharis cyanus;47, 49, 63, 65, 66, 69, 91;18.8;2.8;3.3;10;5;5;0
+74;Emeralds;Thalurania colombica;21, 35, 81, 84;18.8;5.23;4.5;10;5;5;0
+75;Brilliants;Haplophaedia lugens;82;18.9;2.27;6.9;10;5;5;0
+76;Emeralds;Amazilia saucerottei;28, 30, 84;19.1;4.35;4.5;10;0;0;10
+77;Brilliants;Haplophaedia aureliae;31, 32, 77, 83;19.3;1.29;5.2;10;5;5;0
+78;Brilliants;Clytolaema rubricauda;60, 61, 62, 63, 67, 68, 71, 72, 73, 92;19.4;2.2;7.9;10;5;5;0
+79;Bees;Archilochus alexandri;6, 79, 80;19.6;2.46;3.4;10;5;5;0
+80;Mtn. Gems;Lampornis viridipallens;88, 89;19.6;2.24;5.35;10;5;5;0
+81;Emeralds;Thalurania furcata;34, 39, 42, 48, 49, 50, 52, 56, 57, 75, 85, 92;19.7;4.84;4.2;10;5;5;0
+82;Brilliants;Eriocnemis cupreoventris;29;19.8;1.4;5.3;10;5;5;0
+83;Emeralds;Amazilia beryllina;9, 10, 11, 87, 88, 89;19.8;2.68;4.5;10;5;5;0
+84;Mtn. Gems;Lampornis hemileucus;22;19.8;2.32;5.5;10;5;5;0
+85;Brilliants;Boissonneaua jardini;35;20;2.29;9.1;10;5;5;0
+86;Brilliants;Aglaeactis castelnaudii;46;20.1;1.46;6.7;10;4;4;2
+87;Brilliants;Eriocnemis vestita;29, 76;20.2;0.99;4.55;10;5;5;0
+88;Brilliants;Heliodoxa aurescens;39;20.2;2.98;6.4;10;5;5;0
+89;Topazes;Florisuga mellivora;20, 21, 30, 34, 35, 39, 42, 81, 82, 84;20.2;3.96;7.4;10;5;5;0
+90;Brilliants;Eriocnemis mosquera;33;20.3;0.78;5.3;10;1;3;6
+91;Coquettes;Oreotrochilus estella;46;20.3;8.46;8.1;10;5;5;0
+92;Emeralds;Amazilia cyanocephala;9, 10;20.3;2.66;5.1;10;5;5;0
+93;Mtn. Gems;Lampornis calolaemus;22, 23;20.5;2.19;4.9;10;5;5;0
+94;Emeralds;Amazilia yucatanensis;9, 10;20.6;4.48;3.9;10;5;5;0
+95;Brilliants;Aglaeactis cupripennis;33, 38, 46, 78;20.7;1.57;7.6;10;0;0;10
+96;Brilliants;Eriocnemis derbyi;33;20.7;1.42;5.2;10;5;5;0
+97;Brilliants;Urosticte benjamini;35, 81, 82;20.9;1.48;3.9;10;5;5;0
+98;Emeralds;Chrysuronia oenone;39;20.9;4.31;5.05;10;5;5;0
+99;Emeralds;Hylocharis chrysura;51, 54, 56, 57, 74, 86;20.9;3.37;4.5;10;5;5;0
+100;Mtn. Gems;Panterpe insignis;23, 24, 25;20.9;3.58;5.7;10;5;5;0
+101;Bees;Calothorax lucifer;6, 7, 11, 12, 79, 80;21;6.82;3.3;10;5;5;0
+102;Emeralds;Phaeochroa cuvierii;21;21.1;3.56;8.9;10;7;2;1
+103;Mtn. Gems;Lampornis cinereicauda;25;21.2;1.87;5.65;10;5;5;0
+104;Emeralds;Cynanthus latirostris;6, 7, 8, 11, 79, 80;21.4;3.19;3.1;10;5;5;0
+105;Emeralds;Trochilus polytmus;13;21.4;5.65;4.85;10;5;5;0
+106;Brilliants;Heliodoxa leadbeateri;75;21.5;4.3;7.4;10;5;5;0
+107;Topazes;Florisuga fusca;55, 56, 62, 63, 65, 66, 67, 68, 69, 70, 74, 86, 91;21.7;4.86;8.1;10;5;5;0
+108;Hermits;Phaethornis striigularis;21, 22, 81, 82, 84;21.8;7.68;3;10;10;0;0
+109;Mangoes;Colibri serrirostris;43, 44, 45, 50, 51, 52, 53, 55, 61, 85, 86;21.8;3.35;6.7;10;5;5;0
+110;Emeralds;Aphantochroa cirrochloris;47, 68, 70, 86, 91;21.9;4.16;7.7;10;5;5;0
+111;Brilliants;Eriocnemis luciani;36, 37, 38 ;22;0.91;6;10;5;5;0
+112;Mangoes;Colibri cyanotus;24, 25, 27, 35, 77, 83;22.1;6.64;5.9;10;5;5;0
+113;Mangoes;Colibri thalassinus;7, 9, 10, 12;22.1;6.64;5.9;10;5;5;0
+114;Emeralds;Amazilia tzacatl;21, 26, 28, 30, 35, 81, 84;22.2;4.83;4.8;10;5;5;0
+115;Emeralds;Amazilia violiceps;6, 79, 80;22.5;2.77;5.1;10;8;1;1
+116;Topazes;Topaza pyra;34;22.6;6.89;12.65;10;7;3;0
+117;Brilliants;Heliodoxa rubinoides;35, 82, 83;22.7;4.97;7.8;10;5;5;0
+118;Hermits;Phaethornis stuarti;49;22.7;7.66;2.9;10;7;3;0
+119;Coquettes;Oreonympha nobilis;46;22.8;1.55;7.7;10;5;5;0
+120;Mangoes;Eulampis holosericeus;17, 18, 19, 93;22.9;10.96;5.7;10;5;5;0
+121;Mtn. Gems;Lampornis amethystinus;9, 10, 12, 89, 90;22.9;4.44;5.2;10;5;5;0
+122;Emeralds;Amazilia rutila;8, 87, 88;23;5.1;5.25;10;5;5;0
+123;Emeralds;Eupetomena macroura;40, 41, 44, 45, 47, 50, 51, 52,  53, 54, 55, 56, 57, 59, 62, 65, 66, 85, 86, 91;23.2;4.58;9;10;5;5;0
+124;Emeralds;Leucochloris albicollis;60, 61, 62, 63, 65, 67, 68, 74, 86, 92;23.3;2.3;6.3;10;5;5;0
+125;Emeralds;Amazilia franciae;26, 30, 35, 81, 82;23.5;4.36;5;10;5;5;0
+126;Mangoes;Polytmus guainumbi;54, 86;23.7;6.75;5.2;10;5;5;0
+127;Mangoes;Colibri coruscans;27, 30, 35, 36, 37, 38, 46, 82, 83;23.8;3.73;6.7;10;5;5;0
+128;Hermits;Phaethornis ruber;39, 34, 42, 47, 48, 58, 63, 65, 66 , 91;24;9.5;2.4;10;5;5;0
+129;Mangoes;Anthracothorax dominicus;15;24.1;7.45;5.8;10;5;5;0
+130;Emeralds;Amazilia leucogaster;47;24.2;4.51;4.7;10;4;4;2
+131;Mangoes;Eulampis jugularis;16;24.2;16.58;8.87;10;5;5;0
+132;Brilliants;Heliodoxa jacula;22, 23, 81, 82;24.4;3.96;8.15;10;5;5;0
+133;Hermits;Phaethornis squalidus;58, 60, 63, 64, 66, 68, 70;24.7;10.07;3.4;10;5;2;3
+134;Emeralds;Chalybura buffoni;84;24.8;5.99;6.8;10;5;5;0
+135;Mtn. Gems;Lampornis clemenciae;5, 7, 12, 79;24.8;3.74;7.6;10;5;5;0
+136;Hermits;Phaethornis longuemareus;20;25;11.23;3;10;7;3;0
+137;Mangoes;Anthracothorax prevostii;9, 10, 87;25.4;7.73;6.4;10;5;5;0
+138;Mangoes;Anthracothorax nigricollis;20, 26, 28, 30, 39, 42, 49, 56, 57, 65, 68, 74, 84, 85, 86, 91;25.5;3.7;7;10;5;5;0
+139;Mangoes;Anthracothorax viridis;14;25.7;6.3;6.6;10;5;5;0
+140;Brilliants;Heliodoxa imperatrix;35, 82;26.3;2.71;8.8;10;5;5;0
+141;Brilliants;Lafresnaya lafresnayi;29, 33, 36, 37, 38, 76, 78, 83;26.4;13.15;5.3;10;5;5;0
+142;Emeralds;Campylopterus rufus;88, 89;26.6;4.79;7.13;10;5;5;0
+143;Hermits;Eutoxeres aquila;22, 75, 83;26.6;45;10.6;10;0;0;10
+144;Hermits;Anopetia gounellei;41, 44, 45;27.1;13.17;3;10;3;0;7
+145;Hermits;Glaucis dohrnii;47;27.7;5.36;5.8;10;5;5;0
+146;Hermits;Phaethornis subochraceus;49;28.05;6.35;3.8;7;3;4;0
+147;Emeralds;Campylopterus curvipennis;9, 10;28.1;4.4;6;10;3;0;7
+148;Brilliants;Coeligena iris;36, 37, 38;28.2;0.94;6.9;10;7;3;0
+149;Mtn. Gems;Eugenes fulgens;4, 5, 7, 9, 10, 11, 12, 79, 80, 90;28.4;2.87;8.1;10;5;5;0
+150;Mtn. Gems;Eugenes spectabilis;23, 24, 25;28.4;2.87;8.1;10;5;5;0
+151;Emeralds;Campylopterus largipennis;39, 42, 49, 53, 85;28.7;5.86;8.3;10;4;6;0
+152;Hermits;Threnetes leucurus;39, 42;29.1;9.04;5.6;10;5;5;0
+153;Brilliants;Coeligena prunellei;27;29.3;0.98;7;10;1;0;9
+154;Hermits;Threnetes ruckeri;21;30;10.77;5.2;10;5;5;0
+155;Hermits;Phaethornis bourcieri;34, 39;30.5;3.49;4.3;10;5;5;0
+156;Brilliants;Pterophanes cyanopterus;33, 36, 38, 37, 46, 78;30.6;0.32;9.3;10;5;5;0
+157;Brilliants;Coeligena coeligena;30, 77, 83;30.8;1.1;6.8;10;5;5;0
+158;Brilliants;Coeligena helianthea;29;30.9;0.68;6.65;10;5;5;0
+159;Emeralds;Campylopterus hemileucurus;9, 10, 23, 88, 89;31.6;15.07;9.8;10;5;5;0
+160;Hermits;Glaucis hirsutus;19, 20, 39, 42, 47, 63, 65, 66, 84;31.6;13.62;6.8;10;5;5;0
+161;Mtn. Gems;Heliomaster squamosus;40, 41, 51, 52, 57, 63, 86;31.6;1.79;5.9;10;5;5;0
+162;Brilliants;Coeligena wilsoni;32, 35, 81, 82;31.7;1.17;6.7;10;5;5;0
+163;Hermits;Phaethornis pretrei;41, 43, 44, 45, 47, 51, 52, 53, 55, 58, 85, 86;32.7;9.26;5.6;10;5;5;0
+164;Hermits;Phaethornis hispidus;39, 42;33.3;10.14;5;10;5;5;0
+165;Brilliants;Coeligena violifer;78;34.5;0.89;7.4;10;6;4;0
+166;Mtn. Gems;Heliomaster longirostris;28, 84;34.5;2.58;6.6;10;5;5;0
+167;Hermits;Ramphodon naevius;63, 64, 65, 66, 68, 69, 70, 73, 91;34.8;3.81;7.9;10;5;5;0
+168;Hermits;Phaethornis eurynome;54, 60, 69, 70, 72, 73, 91, 92;35;11.06;5.3;10;9;1;0
+169;Brilliants;Coeligena lutetiae;33, 76;36.4;0.89;7.3;10;5;5;0
+170;Mangoes;Doryfera ludovicae;22, 23, 27, 30, 32, 35, 75, 76, 77, 82, 83;36.5;0.41;6;10;5;5;0
+171;Mtn. Gems;Heliomaster constantii;8, 87, 88;36.8;2.75;7.3;10;7;3;0
+172;Brilliants;Coeligena torquata;27, 31, 32, 76, 77, 78, 81, 82, 83;37.1;0.6;6.75;10;5;5;0
+173;Hermits;Phaethornis superciliosus;39;39.1;15.23;6.3;10;5;5;0
+174;Patagona;Patagona gigas;78;39.6;1.98;20.2;10;5;5;0
+175;Hermits;Phaethornis malaris;34, 47, 48;40.9;12.25;5.9;10;5;5;0
+176;Hermits;Phaethornis syrmatophorus;31, 35, 77, 81, 82, 83;41.6;19.51;5.8;10;6;4;0
+177;Hermits;Phaethornis longirostris;21;42.3;17.74;6;10;8;1;1
+178;Hermits;Phaethornis guy;20, 22, 23, 26, 28, 30, 75, 84;43;14.79;6.3;10;5;5;0
+179;Hermits;Phaethornis yaruqui;81, 82;44.2;6.71;5.4;10;5;5;0
+180;Brilliants;Ensifera ensifera;29, 32, 33, 37, 78;97.5;-2.99;11.2;10;5;5;0
+181;Emeralds;Chlorostilbon olivaresi;34;NA;NA;3.7;0;0;0;0
