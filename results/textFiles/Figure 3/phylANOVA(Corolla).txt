@@ -1,0 +1,26 @@
+ANOVA table: Phylogenetic ANOVA
+
+Response: Corolla length
+Source          Sum Sq     Mean Sq   
+Region          5.71911    1.90637   
+Residual        99.56820   0.11755   
+
+F value: 16.22
+P value: 0.014
+
+ Pairwise posthoc test using method = 'bonferroni'
+
+Comparison                P-value
+ Andes-Caribbean          0.003     
+Andes-Central & North America 1.000     
+Andes-Lowland South America 1.000     
+Caribbean-Central & North America 0.000     
+Caribbean-Lowland South America 0.001     
+Central & North America-Lowland South America 0.858      
+
+Significance Letters:
+
+ Andes                    a
+Caribbean                b
+Central & North America  a
+Lowland South America    a

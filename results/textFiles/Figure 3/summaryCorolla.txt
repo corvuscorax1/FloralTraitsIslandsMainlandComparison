@@ -1,0 +1,14 @@
+Corolla Length
+Phylogenetic signal λ = 0.85
+The phylogenetic signal λ suggests a strong phylogenetic effect (p = 0.000).
+
+Phylogenetic ANOVA Results:
+F = 16.22
+p = 0.0138
+
+Homogeneity of variance: is given 
+
+Kruskal-Wallis Test Results:
+Chi-squared = 42.76
+Degrees of Freedom = 3
+p-value = 0.0000
