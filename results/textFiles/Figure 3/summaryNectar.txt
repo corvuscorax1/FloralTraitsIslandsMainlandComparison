@@ -1,0 +1,19 @@
+Nectar Concentration
+Phylogenetic signal λ = 0.79
+The phylogenetic signal λ suggests a strong phylogenetic effect (p = 0.000).
+
+Phylogenetic ANOVA Results:
+F = 28.38
+p = 0.0000
+
+Homogeneity of variance: is not given 
+
+Kruskal-Wallis Test Results:
+Chi-squared = 73.92
+Degrees of Freedom = 3
+p-value = 0.0000 
+
+Welch Anova Results:
+F = 23.69
+Degrees of Freedom = 3
+p-value = 0.0000

@@ -4,7 +4,7 @@ The phylogenetic signal λ suggests a strong phylogenetic effect (p = 0.000).
 
 Phylogenetic ANOVA Results:
 F = 16.22
-p = 0.0138
+p = 0.0134
 
 Homogeneity of variance: is given 
 

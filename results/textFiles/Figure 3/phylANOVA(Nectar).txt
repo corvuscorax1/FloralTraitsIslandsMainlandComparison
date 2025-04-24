@@ -1,0 +1,26 @@
+ANOVA table: Phylogenetic ANOVA
+
+Response: Nectar
+Source          Sum Sq     Mean Sq   
+Region          5138.09041 1712.69680
+Residual        35126.77484 60.35528  
+
+F value: 28.38
+P value: 0.000
+
+ Pairwise posthoc test using method = 'bonferroni'
+
+Comparison                P-value
+ Andes-Caribbean          0.000     
+Andes-Central & North America 0.095     
+Andes-Lowland South America 0.027     
+Caribbean-Central & North America 0.000     
+Caribbean-Lowland South America 0.002     
+Central & North America-Lowland South America 1.000      
+
+Significance Letters:
+
+ Andes                    a
+Caribbean                b
+Central & North America  ac
+Lowland South America    c
