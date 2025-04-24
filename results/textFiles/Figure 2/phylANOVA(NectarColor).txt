@@ -1,0 +1,22 @@
+ANOVA table: Phylogenetic ANOVA
+
+Response: Nectar concentration
+Source          Sum Sq     Mean Sq   
+Region          0.10518    0.05259   
+Residual        3.74553    0.00668   
+
+F value: 7.88
+P value: 0.249
+
+ Pairwise posthoc test using method = 'bonferroni'
+
+Comparison                P-value
+ 1-2                      1.000     
+1-3                      0.103     
+2-3                      1.000      
+
+Significance Letters:
+
+ 1                        a
+2                        a
+3                        a
