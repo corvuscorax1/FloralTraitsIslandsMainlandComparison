@@ -47,27 +47,34 @@ Model is well-fitted
 
 
 Post-Hoc Region Comparisons:
-                                        comparison       pValue         pAdj
-1                   Lowland South America vs Andes 2.057980e-02 1.234788e-01
-2 Lowland South America vs Central & North America 2.053010e-03 1.231806e-02
-3               Lowland South America vs Caribbean 1.066877e-02 6.401259e-02
-4                 Andes vs Central & North America 4.447188e-01 1.000000e+00
-5                               Andes vs Caribbean 1.115462e-04 6.692769e-04
-6             Central & North America vs Caribbean 1.571202e-05 9.427213e-05
+                                        comparison       pValue
+1                   Lowland South America vs Andes 2.057980e-02
+2 Lowland South America vs Central & North America 2.053010e-03
+3               Lowland South America vs Caribbean 1.066877e-02
+4                 Andes vs Central & North America 4.447188e-01
+5                               Andes vs Caribbean 1.115462e-04
+6             Central & North America vs Caribbean 1.571202e-05
+          pAdj
+1 1.234788e-01
+2 1.231806e-02
+3 6.401259e-02
+4 1.000000e+00
+5 6.692769e-04
+6 9.427213e-05
 
 
 Regional Differences (Groups):
 
 
 Emmeans
-Central & North America                   Andes   Lowland South America 
-                    "a"                    "ab"                     "b" 
-              Caribbean 
-                    "c" 
+Central & North America                   Andes 
+                    "a"                    "ab" 
+  Lowland South America               Caribbean 
+                    "b"                     "c" 
 
 
 Fisher Exact
-  Lowland South America                   Andes Central & North America 
-                   "ab"                    "ac"                     "c" 
-              Caribbean 
-                    "b" 
+  Lowland South America                   Andes 
+                   "ab"                    "ac" 
+Central & North America               Caribbean 
+                    "c"                     "b" 

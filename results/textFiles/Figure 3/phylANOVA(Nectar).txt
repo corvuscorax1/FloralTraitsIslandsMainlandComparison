@@ -12,10 +12,10 @@ P value: 0.000
 
 Comparison                P-value
  Andes-Caribbean          0.000     
-Andes-Central & North America 0.095     
-Andes-Lowland South America 0.027     
+Andes-Central & North America 0.089     
+Andes-Lowland South America 0.025     
 Caribbean-Central & North America 0.000     
-Caribbean-Lowland South America 0.002     
+Caribbean-Lowland South America 0.003     
 Central & North America-Lowland South America 1.000      
 
 Significance Letters:

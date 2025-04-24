@@ -1,6 +1,6 @@
 
-	Fisher's Exact Test for Count Data with simulated p-value (based on 10000
-	replicates)
+	Fisher's Exact Test for Count Data with simulated p-value
+	(based on 10000 replicates)
 
 data:  colorTable
 p-value = 9.999e-05
