@@ -1,0 +1,66 @@
+Corolla Length and Nectar Concentration Analysis 
+===============================================
+ Effect Size and Significance 
+----------------------------
+ Beta (ß) = -0.05 p-value = 0.000 
+
+R-squared 
+---------
+ R-squared = 0.02 
+
+Model Output: PGLS 
+--------------------
+ 
+Call:
+pgls(formula = nectar10 ~ log10corolla, data = phyloData, lambda = "ML")
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.029052 -0.006513 -0.000450  0.005499  0.061783 
+
+Branch length transformations:
+
+kappa  [Fix]  : 1.000
+lambda [ ML]  : 0.792
+   lower bound : 0.000, p = < 2.22e-16
+   upper bound : 1.000, p = < 2.22e-16
+   95.0% CI   : (0.669, 0.870)
+delta  [Fix]  : 1.000
+
+Coefficients:
+              Estimate Std. Error t value  Pr(>|t|)    
+(Intercept)   0.274370   0.035623  7.7019 6.306e-14 ***
+log10corolla -0.045631   0.012522 -3.6441 0.0002938 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01048 on 549 degrees of freedom
+Multiple R-squared: 0.02362,	Adjusted R-squared: 0.02184 
+F-statistic: 13.28 on 1 and 549 DF,  p-value: 0.0002938  
+
+Model Output: Beta Regression 
+------------------------------
+ 
+Call:
+betareg(formula = nectar10 ~ log10corolla, data = corollaNectarRegion)
+
+Quantile residuals:
+    Min      1Q  Median      3Q     Max 
+-2.8648 -0.6069  0.0211  0.5305  5.1124 
+
+Coefficients (mean model with logit link):
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  -1.03730    0.08631  -12.02   <2e-16 ***
+log10corolla -0.16018    0.06306   -2.54   0.0111 *  
+
+Phi coefficients (precision model with identity link):
+      Estimate Std. Error z value Pr(>|z|)    
+(phi)   26.442      1.574    16.8   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
+
+Type of estimator: ML (maximum likelihood)
+Log-likelihood: 628.2 on 3 Df
+Pseudo R-squared: 0.01101
+Number of iterations: 8 (BFGS) + 3 (Fisher scoring)  
+
