@@ -1,0 +1,73 @@
+Floral Color Analysis
+
+Phylogenetic signal: λ = 0.6
+Phylogenetic effect: Moderate p =  0
+
+
+Region Effect (Color White):
+Analysis of Deviance Table (Type III tests)
+
+Response: colorWhite
+       LR Chisq Df Pr(>Chisq)    
+region   25.523  3    1.2e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Model Output (Color White):
+
+Call:
+glm(formula = colorWhite ~ region, family = binomial, data = colorRegion)
+
+Coefficients:
+                              Estimate Std. Error z value Pr(>|z|)   
+(Intercept)                   -0.03365    0.08648  -0.389  0.69721   
+regionAndes                   -0.39651    0.16766  -2.365  0.01803 * 
+regionCentral & North America -0.58539    0.18695  -3.131  0.00174 **
+regionCaribbean                0.62501    0.23999   2.604  0.00920 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1359.8  on 984  degrees of freedom
+Residual deviance: 1334.3  on 981  degrees of freedom
+AIC: 1342.3
+
+Number of Fisher Scoring iterations: 4
+
+
+
+Region Effect:
+Region significantly affects floral color.
+
+
+Model Fit (Overdispersion):
+Model is well-fitted
+
+
+Post-Hoc Region Comparisons:
+                                        comparison       pValue         pAdj
+1                   Lowland South America vs Andes 2.057980e-02 1.234788e-01
+2 Lowland South America vs Central & North America 2.053010e-03 1.231806e-02
+3               Lowland South America vs Caribbean 1.066877e-02 6.401259e-02
+4                 Andes vs Central & North America 4.447188e-01 1.000000e+00
+5                               Andes vs Caribbean 1.115462e-04 6.692769e-04
+6             Central & North America vs Caribbean 1.571202e-05 9.427213e-05
+
+
+Regional Differences (Groups):
+
+
+Emmeans
+Central & North America                   Andes   Lowland South America 
+                    "a"                    "ab"                     "b" 
+              Caribbean 
+                    "c" 
+
+
+Fisher Exact
+  Lowland South America                   Andes Central & North America 
+                   "ab"                    "ac"                     "c" 
+              Caribbean 
+                    "b" 
