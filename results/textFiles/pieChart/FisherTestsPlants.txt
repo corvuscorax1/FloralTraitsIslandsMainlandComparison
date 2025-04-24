@@ -1,0 +1,62 @@
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix
+p-value = 9.999e-05
+alternative hypothesis: two.sided
+
+$`Pairwise test between Lowland South America and Andes`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 9.999e-05
+alternative hypothesis: two.sided
+
+$`Pairwise test between Lowland South America and Central & North America`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 9.999e-05
+alternative hypothesis: two.sided
+
+$`Pairwise test between Lowland South America and Caribbean`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 0.008899
+alternative hypothesis: two.sided
+
+$`Pairwise test between Andes and Central & North America`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 0.0007999
+alternative hypothesis: two.sided
+
+$`Pairwise test between Andes and Caribbean`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 9.999e-05
+alternative hypothesis: two.sided
+
+$`Pairwise test between Central & North America and Caribbean`
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on
+	10000 replicates)
+
+data:  freqMatrix[, regionIndices]
+p-value = 0.07789
+alternative hypothesis: two.sided
+
