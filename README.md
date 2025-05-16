@@ -1,7 +1,7 @@
 # The role of insularity: plants have few ornithophilous traits but are visited by morphologically more distinct hummingbirds in the Caribbean islands.
-### Under construction
 
 If you have any questions, about the data you may contact m.vollstaedt@csic.es
+This study is published in **Functional Ecology**: [Vollstädt et al. 2025](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.70068).
 
 This is a extensive dataset of floral traits covering a vast biogeographical gradient. Records range from southern Brazil to the Central USA and the Caribbean islands.
 There are 1275 plant species, of which 1030 are fully identified with current, accepted names.
